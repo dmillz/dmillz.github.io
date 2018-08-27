@@ -1,2 +1,2 @@
-# dmillz.github.io
-millz.com
+# Hello World
+This is millz.com
